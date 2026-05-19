@@ -5,6 +5,7 @@
 [![Nuclei](https://img.shields.io/badge/Tools-Nuclei-yellow)](https://nuclei.projectdiscovery.io/)
 [![Wails](https://img.shields.io/badge/Wails-v2-red?style=flat&logo=wails)](https://wails.io/)
 [![Svelte](https://img.shields.io/badge/Svelte-4.0-ff3e00?style=flat&logo=svelte)](https://svelte.dev/)
+![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
 
 ## Description
 AVT is a desktop-based application designed to integrate two renowned security assessment tools **Nmap** and **Nuclei**.
