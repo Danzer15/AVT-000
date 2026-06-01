@@ -27,6 +27,6 @@ The features within this system include:
 - A vulnerability database that can be configured according to user preferences
 
 # Prerequisites
-Since this project utilizes Nmap and Nuclei, both tools must be installed before proceeding. Below are the links where you can download them (if you do not have them installed yet) :
-## [Nmap] (https://nmap.org/download.html)
-## [Nuclei# (https://github.com/projectdiscovery/nuclei)
+## Since this project utilizes Nmap and Nuclei, both tools must be installed before proceeding. Below are the links where you can download them (if you do not have them installed yet) :
+### [Nmap] (https://nmap.org/download.html)
+### [Nuclei] (https://github.com/projectdiscovery/nuclei)
