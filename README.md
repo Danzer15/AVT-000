@@ -7,12 +7,12 @@
 [![Svelte](https://img.shields.io/badge/Svelte-4.0-ff3e00?style=flat&logo=svelte)](https://svelte.dev/)
 ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
 
-## Description
+# Description
 AVT is a desktop-based application designed to integrate two renowned security assessment tools **Nmap** and **Nuclei**.
 
 This project aims to streamline the network-based IT infrastructure audit process by adopting the **NIST SP 800-115 framework**. The system guides users through structured security assessment stages, ranging from asset mapping to vulnerability scanning.
 
-## Features
+# Features
 The features within this system include:
 - **Assessment from the NIST SP 800-115 stages:**
   - `Planning`
@@ -27,13 +27,6 @@ The features within this system include:
 - A vulnerability database that can be configured according to user preferences
 
 # Prerequisites
-Since this project utilizes Nmap and Nuclei, both tools must be installed before proceeding.
-### 🛠️ Nmap (Network Mapper)
-> **Link Port**: [Buka Situs Resmi Nmap](https://nmap.org)
-> URL: `https://nmap.org`
-
----
-
-### 🔍 Nuclei Vulnerability Scanner
-> **Link Port**: [Buka GitHub ProjectDiscovery](https://github.com/projectdiscovery/nuclei)
-> URL: `https://github.com/projectdiscovery/nuclei`
+Since this project utilizes Nmap and Nuclei, both tools must be installed before proceeding. Below are the links where you can download them (if you do not have them installed yet) :
+## [Nmap] (https://nmap.org/download.html)
+## [Nuclei# (https://github.com/projectdiscovery/nuclei)
