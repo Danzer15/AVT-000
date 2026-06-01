@@ -15,11 +15,11 @@ This project aims to streamline the network-based IT infrastructure audit proces
 ## Features
 The features within this system include :
 - Assessment from the NIST SP 800-115 stages :
-[] Planning
-[] Discovery
-[] Attack
-[] Reporting
-(Additional Discovery)
+* [] Planning
+* [] Discovery
+* [] Attack
+* [] Reporting
+* (Additional Discovery)
 - Clear documentation at each stage
 - Custom scripts (Including Nmap and Nuclei)
 - Reporting history
