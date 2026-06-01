@@ -13,13 +13,13 @@ AVT is a desktop-based application designed to integrate two renowned security a
 This project aims to streamline the network-based IT infrastructure audit process by adopting the **NIST SP 800-115 framework**. The system guides users through structured security assessment stages, ranging from asset mapping to vulnerability scanning.
 
 ## Features
-The features within this system include :
-- Assessment from the NIST SP 800-115 stages :
-* [] Planning
-* [] Discovery
-* [] Attack
-* [] Reporting
-* (Additional Discovery)
+The features within this system include:
+- **Assessment from the NIST SP 800-115 stages:**
+  - `[]` Planning
+  - `[]` Discovery
+  - `[]` Attack
+  - `[]` Reporting
+  - *(Additional Discovery)*
 - Clear documentation at each stage
 - Custom scripts (Including Nmap and Nuclei)
 - Reporting history
