@@ -36,7 +36,7 @@ Since this project utilizes Nmap and Nuclei, both tools must be installed before
 | **Vulnerability Database** | Centralized Github advisories database (201 - 2026) | [Clock](https://rushdie.vercel.app/thing-features) |
 
 # Documentation
-The complete documentation for the system is provided below. Please choose only one option : &nbsp;&nbsp
+The complete documentation for the system is provided below. Please choose only one option : &nbsp;&nbsp;
 [![Markdown](https://img.shields.io/badge/Documentation-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://rushdie.vercel.app/docs/manual.md) 
 
 [![PDF](https://img.shields.io/badge/Documentation-PDF-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://rushdie.vercel.app/docs/manual.pdf) 
