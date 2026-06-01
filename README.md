@@ -28,13 +28,9 @@ The features within this system include:
 
 # Prerequisites
 Since this project utilizes Nmap and Nuclei, both tools must be installed before proceeding. Below are the links where you can download them (if you do not have them installed yet) :
-### 🛠️ Core Dependencies & Resources
-
-Sistem ini mengintegrasikan beberapa komponen utama untuk melakukan pemetaan aset dan pemindaian kerentanan secara otomatis:
-
-| Component | Target System / Ecosystem | Resource Link |
+| Component | Desc | Link |
 | :--- | :--- | :--- |
 | **Nmap** | Network Mapping & Port Scanner | [Official Download](https://nmap.org/download.html) |
 | **Nuclei** | Vulnerability Scanning Engine | [GitHub Repository](https://github.com/projectdiscovery/nuclei) |
-| **Nuclei Templates** | Community-curated Vulnerability Ruleset | [Templates Registry](https://github.com/projectdiscovery/nuclei-templates) |
-| **Vulnerability Database** | Centralized SQL Advisories (AVT Core Data) | [Live Hub via Vercel](https://rushdie.vercel.vercel.app/thing-features) |
+| **Nuclei Templates** | Community-curated Vulnerability Ruleset | [Github Repository](https://github.com/projectdiscovery/nuclei-templates) |
+| **Vulnerability Database** | Centralized SQL Advisories (AVT Core Data) | (https://rushdie.vercel.vercel.app/thing-features) |
