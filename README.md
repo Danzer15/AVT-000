@@ -34,3 +34,13 @@ Since this project utilizes Nmap and Nuclei, both tools must be installed before
 | **Nuclei** | Vulnerability Scanning Engine | [GitHub Repository](https://github.com/projectdiscovery/nuclei) |
 | **Nuclei Templates** | Community-curated Vulnerability Ruleset | [Github Repository](https://github.com/projectdiscovery/nuclei-templates) |
 | **Vulnerability Database** | Centralized Github advisories database (201 - 2026) | [Clock](https://rushdie.vercel.app/thing-features) |
+
+# Documentation
+The complete documentation for the system is provided below. Please choose only one option :
+[![Markdown](https://img.shields.io/badge/Documentation-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://rushdie.vercel.app/docs/manual.md) |
+[![PDF](https://img.shields.io/badge/Documentation-PDF-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://rushdie.vercel.app/docs/manual.pdf) 
+
+# License
+Copyright © 2026 Bhara Satriyanto. All rights reserved.
+
+All source code and system architecture within this AVT project are private. Unauthorized use, copying, or redistribution without written permission from the copyright owner is strictly prohibited. Thank you for your understanding and respect.
