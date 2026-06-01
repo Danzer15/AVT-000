@@ -28,16 +28,13 @@ The features within this system include:
 
 # Prerequisites
 Since this project utilizes Nmap and Nuclei, both tools must be installed before proceeding. Below are the links where you can download them (if you do not have them installed yet) :
-### 📁 Dependency & Core Assets
+### 🛠️ Core Dependencies & Resources
 
-* **Nmap Scanner** `[Network Mapping Engine]`
-  👉 [nmap.org/download.html](https://nmap.org/download.html)
+Sistem ini mengintegrasikan beberapa komponen utama untuk melakukan pemetaan aset dan pemindaian kerentanan secara otomatis:
 
-* **Nuclei** `[Vulnerability Scanner]`
-  👉 [github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-
-* **Nuclei Templates** `[Community Ruleset]`
-  👉 [github.com/projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
-
-* **Vulnerability Database** `[SQL Advisories Pack]`
-  👉 [rushdie.vercel.app/thing-features](https://rushdie.vercel.app/thing-features)
+| Component | Target System / Ecosystem | Resource Link |
+| :--- | :--- | :--- |
+| **Nmap** | Network Mapping & Port Scanner | [Official Download](https://nmap.org/download.html) |
+| **Nuclei** | Vulnerability Scanning Engine | [GitHub Repository](https://github.com/projectdiscovery/nuclei) |
+| **Nuclei Templates** | Community-curated Vulnerability Ruleset | [Templates Registry](https://github.com/projectdiscovery/nuclei-templates) |
+| **Vulnerability Database** | Centralized SQL Advisories (AVT Core Data) | [Live Hub via Vercel](https://rushdie.vercel.vercel.app/thing-features) |
