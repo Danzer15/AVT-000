@@ -28,6 +28,7 @@ The features within this system include:
 
 # Prerequisites
 Since this project utilizes Nmap and Nuclei, both tools must be installed before proceeding. Below are the links where you can download them (if you do not have them installed yet) :
-## [Nmap] (https://nmap.org/download.html)
-## [Nuclei] (https://github.com/projectdiscovery/nuclei)
-## [Nuclei_Templates] (https://github.com/projectdiscovery/nuclei-templates)
+## Nmap (https://nmap.org/download.html)
+## Nuclei (https://github.com/projectdiscovery/nuclei)
+## Nuclei_Templates (https://github.com/projectdiscovery/nuclei-templates)
+## Vulnerability_Database (https://rushdie.vercel.app/thing-features)
