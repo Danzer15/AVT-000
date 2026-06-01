@@ -19,9 +19,17 @@ The features within this system include:
   - `Discovery`
   - `Attack`
   - `Reporting`
-  - *(Additional Discovery)*
+  - `*(Additional Discovery)*`
 - Clear documentation at each stage
 - Custom scripts (Including Nmap and Nuclei)
 - Reporting history
 - Data that can be linked to a vulnerability database
 - A vulnerability database that can be configured according to user preferences
+
+# Prerequisites
+Since this project utilizes Nmap and Nuclei, both tools must be installed before proceeding.
+[Nmap]
+(https://nmap.org/download.html)
+
+[Nuclei]
+(https://github.com/projectdiscovery/nuclei)
