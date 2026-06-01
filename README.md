@@ -28,8 +28,12 @@ The features within this system include:
 
 # Prerequisites
 Since this project utilizes Nmap and Nuclei, both tools must be installed before proceeding.
-[Nmap]
-(https://nmap.org/download.html)
+### 🛠️ Nmap (Network Mapper)
+> **Link Port**: [Buka Situs Resmi Nmap](https://nmap.org)
+> URL: `https://nmap.org`
 
-[Nuclei]
-(https://github.com/projectdiscovery/nuclei)
+---
+
+### 🔍 Nuclei Vulnerability Scanner
+> **Link Port**: [Buka GitHub ProjectDiscovery](https://github.com/projectdiscovery/nuclei)
+> URL: `https://github.com/projectdiscovery/nuclei`
