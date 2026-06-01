@@ -28,7 +28,16 @@ The features within this system include:
 
 # Prerequisites
 Since this project utilizes Nmap and Nuclei, both tools must be installed before proceeding. Below are the links where you can download them (if you do not have them installed yet) :
-## Nmap (https://nmap.org/download.html)
-## Nuclei (https://github.com/projectdiscovery/nuclei)
-## Nuclei_Templates (https://github.com/projectdiscovery/nuclei-templates)
-## Vulnerability_Database (https://rushdie.vercel.app/thing-features)
+### 📁 Dependency & Core Assets
+
+* **Nmap Scanner** `[Network Mapping Engine]`
+  👉 [nmap.org/download.html](https://nmap.org/download.html)
+
+* **Nuclei** `[Vulnerability Scanner]`
+  👉 [github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
+
+* **Nuclei Templates** `[Community Ruleset]`
+  👉 [github.com/projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
+
+* **Vulnerability Database** `[SQL Advisories Pack]`
+  👉 [rushdie.vercel.app/thing-features](https://rushdie.vercel.app/thing-features)
