@@ -1,4 +1,4 @@
-# AVT - Automation Vulnerability Tool
+# AVT - Automation Vulnerability Tool (Final Prototype)
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://go.dev/)
 [![Nmap](https://img.shields.io/badge/Tools-Nmap-blue)](https://nmap.org/)
