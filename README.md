@@ -35,6 +35,26 @@ Since this project utilizes Nmap and Nuclei, both tools must be installed before
 | **Nuclei Templates** | Community-curated Vulnerability Ruleset | [Github Repository](https://github.com/projectdiscovery/nuclei-templates) |
 | **Vulnerability Database** | Centralized Github advisories database | [Clock](https://rushdie.vercel.app/thing-features) |
 
+## For Windows User
+Please ensure that Nmap, Nuclei, and the templates are properly located during installation. Below is the example:
+### Main Tools
+The system relies on global system environment variables (`PATH`) to call the scanning engines. Ensure the following paths are accessible via your Windows Command Prompt (CMD) or PowerShell:
+
+* **Nmap Engine**  
+  Default Windows Path: `C:\Program Files (x86)\Nmap\nmap.exe`  
+  *(Ensure `Nmap` is added to your System Environment Variables).*
+
+* **Nuclei Engine**  
+  Default Binary Path: `%USERPROFILE%\go\bin\nuclei.exe` (if installed via Go) or your custom binary folder.
+
+---
+
+### Templates For Nuclei
+By default on Windows, the Nuclei automation engine looks for its vulnerability signatures pack inside the user's home directory. Ensure your templates are updated and located at:
+
+```cmd
+C:\Users\<Your-Username>\.nuclei-templates\
+
 # Documentation
 The complete documentation for the system is provided below. Please choose only one option : 
 
