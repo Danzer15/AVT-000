@@ -19,7 +19,7 @@ The features within this system include:
   - `Discovery`
   - `Attack`
   - `Reporting`
-  - `*(Additional Discovery)*`
+  - `(Additional Discovery)`
 - Clear documentation at each stage
 - Custom scripts (Including Nmap and Nuclei)
 - Reporting history
