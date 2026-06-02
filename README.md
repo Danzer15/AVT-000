@@ -33,7 +33,7 @@ Since this project utilizes Nmap and Nuclei, both tools must be installed before
 | **Nmap** | Network Mapping & Port Scanner | [Official Download](https://nmap.org/download.html) |
 | **Nuclei** | Vulnerability Scanning Engine | [GitHub Repository](https://github.com/projectdiscovery/nuclei) |
 | **Nuclei Templates** | Community-curated Vulnerability Ruleset | [Github Repository](https://github.com/projectdiscovery/nuclei-templates) |
-| **Vulnerability Database** | Centralized Github advisories database | [Clock](https://rushdie.vercel.app/thing-features) |
+| **Vulnerability Database** | (Just for example, don't click it!) | [Clock](https://rushdie.vercel.app/thing-features) |
 
 ## For Windows User
 Please ensure that Nmap, Nuclei, and the templates are properly located during installation. Below is the example :
