@@ -57,7 +57,7 @@ By default on Windows, the Nuclei automation engine looks for its vulnerability 
 ```cmd
 C:\Users\<Your-Username>\.nuclei-templates\
 ```
-
+Thank You!!
 # Documentation
 The complete documentation for the system is provided below. Please choose only one option : 
 
