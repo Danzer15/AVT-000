@@ -13,8 +13,8 @@ AVT is a desktop-based application designed to integrate two renowned security a
 This project aims to streamline the network-based IT infrastructure audit process by adopting the **NIST SP 800-115 framework**. The system guides users through structured security assessment stages, ranging from asset mapping to vulnerability scanning.
 
 # Features
-The features within this system include:
-- **Assessment from the NIST SP 800-115 stages:**
+The features within this system include :
+- Assessment from the NIST SP 800-115 stages :
   - `Planning`
   - `Discovery`
   - `Attack`
@@ -39,6 +39,19 @@ Since this project utilizes Nmap and Nuclei, both tools must be installed before
 The complete documentation for the system is provided below. Please choose only one option : 
 
 [![Markdown](https://img.shields.io/badge/Documentation-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://rushdie.vercel.app/docs/manual.md) &nbsp;&nbsp;&nbsp; [![PDF](https://img.shields.io/badge/Documentation-PDF-EC1C24?style=for-the-badge&logo=protondrive&logoColor=white)](https://rushdie.vercel.app/docs/manual.pdf)
+
+## Try the demo
+This system has pre-configured three IPs and three domains as testing assets to demonstrate the system or troubleshoot if any system issues occur. The assets Mockup demo (MPD) are as follows :
+
+| Asset Type | Target | Status |
+| :--- | :--- | :--- |
+| **IPv4 Address** | `192.168.10.25` | MPD |
+| **IPv4 Address** | `192.168.11.25` | MPD |
+| **IPv4 Address** | `192.168.12.5`  | MPD |
+| **Domain Name** | `prabski.go.id`  | MPD |
+| **Domain Name** | `sawit.id`       | MPD |
+| **Domain Name** | `minyakoil.go.id`| MPD |
+
 
 # License
 Copyright © 2026 Bhara Satriyanto. All rights reserved.
