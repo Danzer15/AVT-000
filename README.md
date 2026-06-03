@@ -10,7 +10,7 @@
 # Description
 AVT is a desktop-based application designed to integrate two renowned security assessment tools **Nmap** and **Nuclei**.
 
-This project aims to streamline the network-based IT infrastructure audit process by adopting the **NIST SP 800-115 framework**. The system guides users through structured security assessment stages, ranging from asset mapping to vulnerability scanning.
+This project aims to streamline the network-based IT infrastructure audit process by adopting the **NIST SP 800-115 framework**. The system guides users through structured security assessment stages, ranging from asset mapping to vulnerability scanning. 
 
 # Features
 The features within this system include :
@@ -25,6 +25,13 @@ The features within this system include :
 - Reporting history
 - Data that can be linked to a vulnerability database
 - A vulnerability database that can be configured according to user preferences
+---
+This project features three versions Public, Prototype, and Mockup test. You can download them under the releases section, and the details are provided below:
+| Version | Target | Description | Link |
+| :---: | :--- | :--- | :---: |
+|**Public**| `Production Release` | . | [-[ Release ]-] |
+|**Prototype**| `Development Stage` | . | [-[ Release ]-] |
+|**Mockup Test**| `Evaluation & Testing` | . | [-[ Release ]-]
 
 # Prerequisites
 Since this project utilizes Nmap and Nuclei, both tools must be installed before proceeding. Below are the links where you can download them (if you do not have them installed yet) :
@@ -70,7 +77,7 @@ This system has pre-configured three IPs and three domains as testing assets to 
 | :--- | :--- | :--- |
 | **IPv4 Address** | `192.168.10.25` | MPD |
 | **IPv4 Address** | `192.168.11.25` | MPD |
-| **IPv4 Address** | `192.168.12.5`  | MPD |
+| **IPv4 Address** | `192.168.12.25`  | MPD |
 | **Domain Name** | `prabski.go.id`  | MPD |
 | **Domain Name** | `sawit.id`       | MPD |
 | **Domain Name** | `minyakoil.go.id`| MPD |
