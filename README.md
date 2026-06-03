@@ -31,7 +31,7 @@ This project features three versions Public, Prototype, and Mockup test. You can
 | :---: | :--- | :--- | :---: |
 |**Public**| `Production Release` | . | [-[ Release ]-] |
 |**Prototype**| `Development Stage` | . | [-[ Release ]-] |
-|**Mockup Test**| `Evaluation & Testing` | . | [-[ Release ]-]
+|**Mockup Test**| `Evaluation & Testing` | . | [-[https://github.com/Danzer15/AVT-000/releases/tag/MF000L]-]
 
 # Prerequisites
 Since this project utilizes Nmap and Nuclei, both tools must be installed before proceeding. Below are the links where you can download them (if you do not have them installed yet) :
