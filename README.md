@@ -29,8 +29,8 @@ The features within this system include :
 This project features three versions Public, Prototype, and Mockup test. You can download them under the releases section, and the details are provided below:
 | Version | Target | Description | Link |
 | :---: | :--- | :--- | :---: |
-|**Public**| `Production Release` | . | [-[ Release ]-] |
-|**Prototype**| `Development Stage` | . | [-[ Release ]-] |
+|**Public**| `Production Release` | . |  |
+|**Prototype**| `Development Stage` | . |  |
 |**Mockup Test**| `Evaluation & Testing` | . | https://github.com/Danzer15/AVT-000/releases/tag/MF000L
 
 # Prerequisites
