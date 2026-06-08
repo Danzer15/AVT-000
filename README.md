@@ -86,4 +86,4 @@ This system has pre-configured three IPs and three domains as testing assets to 
 # License
 Copyright © 2026 Bhara Satriyanto. All rights reserved.
 
-All source code and system architecture within this AVT project are private. Unauthorized use, copying, or redistribution without written permission from the copyright owner is strictly prohibited. Thank you for your understanding and respect.
+All source code and system architecture within this AVT project are private. Unauthorized use, copying, or redistribution without written permission from the copyright owner is strictly prohibited. Thank you for your understanding and respect..
