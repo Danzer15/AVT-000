@@ -13,10 +13,13 @@ AVT is a desktop-based application designed to integrate two renowned security a
 This project aims to streamline the network-based IT infrastructure audit process by adopting the **NIST SP 800-115 framework**. The system guides users through structured security assessment stages, ranging from asset mapping to vulnerability scanning. 
 
 # Features
-Development Still In Progress
+Development Still In Progress...
 
 
 # License
 Copyright © 2026 Bhara Satriyanto. All rights reserved.
 
 All source code and system architecture within this AVT project are private. Unauthorized use, copying, or redistribution without written permission from the copyright owner is strictly prohibited. Thank you for your understanding and respect.
+
+# Note
+The source code is not displayed. Rather, it is provided in the form of Releases or Packages.
