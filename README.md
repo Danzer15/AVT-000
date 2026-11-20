@@ -1,4 +1,4 @@
-# AVT - Automation Vulnerability Tool (Final Prototype)
+# SVTF - Semi-Automated Vulnerability Tool Force (Final Prototype)
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://go.dev/)
 [![Nmap](https://img.shields.io/badge/Tools-Nmap-blue)](https://nmap.org/)
@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
 
 # Description
-AVT is a desktop-based application designed to integrate two renowned security assessment tools **Nmap** and **Nuclei**.
+SVTF is a desktop-based application designed to integrate two renowned security assessment tools **Nmap** and **Nuclei** to perform Technical Security Assessment.
 
 This project aims to streamline the network-based IT infrastructure audit process by adopting the **NIST SP 800-115 framework**. The system guides users through structured security assessment stages, ranging from asset mapping to vulnerability scanning. 
 
